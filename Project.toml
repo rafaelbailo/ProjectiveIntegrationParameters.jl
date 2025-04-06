@@ -1,0 +1,13 @@
+name = "ProjectiveIntegrationParameters"
+uuid = "d25f1463-007c-4b83-ad2e-88fecda82cd9"
+authors = ["ℝafael Bailo <Dr.Rafael.Bailo@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

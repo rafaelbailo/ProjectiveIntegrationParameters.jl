@@ -1,2 +1,12 @@
+*.jl.*.cov
+*.jl.cov
+*.jl.mem
 /Manifest.toml
-dev.jl
+docs/build/
+docs/parsed/
+docs/Manifest.toml
+
+build.*
+dev.*
+docs.*
+.vscode
